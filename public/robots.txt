@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /_nuxt/
+Disallow: /jlb
+Disallow: /jlb/
+
+Sitemap: https://mitra.olymplast.co.id/sitemap.xml
